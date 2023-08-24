@@ -1,4 +1,4 @@
-# triviadospuntouno
+# triviadospuntouno https://trivia2punto1.glitch.me/
 Trivia
 # HOLA✨🦄 bienvenidxs a la trivia dos punto uno!
 
