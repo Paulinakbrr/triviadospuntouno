@@ -24,7 +24,7 @@ le informa si su opción fue correcta o no.
 ← `script.js`: Java nos ayuda a agregar interacción y funcionalidad al sitio web. 
 
 
-Aquí abajo agregamos nuestro código como comentario en gris.
+Aquí abajo agregamos nuestro código.
 
 ## Código - Nuestra página principal 🏗️ (index.html)
 
