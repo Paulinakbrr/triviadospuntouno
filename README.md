@@ -8,10 +8,10 @@ _Última actualización: 24 Ago 2023_
 
 ## De qué trata nuestro proyecto?
 
-← `Trata del juego de una trivia. Se solicita el nombre del participante y enviamos un saludo invitándolo a jugar
+Trata del juego de una trivia. Se solicita el nombre del participante y enviamos un saludo invitándolo a jugar
 Se le plantean tres preguntas referentes al significado palabras en tres diferentes países. El juagdor debe 
 elegir una opción y presionar el botón para validar su respuesta, mostrando el sistema una pantalla en la que 
-le informa si su opción fue correcta o no.`
+le informa si su opción fue correcta o no.
 
 ← `README.md`: Aquí es donde estás en estos momentos, explicamos de que trata nuestro proyecto y también adjuntamos el código de HTML, JavaScript y CSS.
 
