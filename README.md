@@ -55,11 +55,11 @@ Página principal o de ingreso para jugar la trivia`index.html` ...
       </div> </div>
       <br>
 
-            <p>¡HOLA! ¿Cuál es tu nombre?</p>    
+            center><p>¡HOLA! ¿Cuál es tu nombre?</p>    
     
         <input type="text" class="txt-nombre">
         <input type="Submit" class="boton-Ir"> 
-        <br><br>
+        <br><br></center>
     
     <div class="mostrar">
 
